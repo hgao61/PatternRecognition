@@ -1,0 +1,73 @@
+2x1 Basic Problems
+-----------
+2x1 Basic Problem 01: 1 Correct (Correct Answer: 1)
+2x1 Basic Problem 02: 1 Correct (Correct Answer: 1)
+2x1 Basic Problem 03: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 04: 2 Correct (Correct Answer: 2)
+2x1 Basic Problem 05: 2 Correct (Correct Answer: 2)
+2x1 Basic Problem 06: 1 Correct (Correct Answer: 1)
+2x1 Basic Problem 07: 2 Correct (Correct Answer: 2)
+2x1 Basic Problem 08: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 09: 3 Correct (Correct Answer: 3)
+2x1 Basic Problem 10: 2 Correct (Correct Answer: 2)
+2x1 Basic Problem 11: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 12: 6 Correct (Correct Answer: 6)
+2x1 Basic Problem 13: 6 Correct (Correct Answer: 6)
+2x1 Basic Problem 14: 6 Correct (Correct Answer: 6)
+2x1 Basic Problem 15: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 16: 4 Correct (Correct Answer: 4)
+2x1 Basic Problem 17: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 18: 3 Correct (Correct Answer: 3)
+2x1 Basic Problem 19: 5 Correct (Correct Answer: 5)
+2x1 Basic Problem 20: 1 Correct (Correct Answer: 1)
+
+2x1 Challenge Problems
+-----------
+2x1 Challenge Problem 01: 3 Correct (Correct Answer: 3)
+2x1 Challenge Problem 02: 1 Correct (Correct Answer: 1)
+2x1 Challenge Problem 03: 5 Correct (Correct Answer: 5)
+2x1 Challenge Problem 04: 5 Correct (Correct Answer: 5)
+2x1 Challenge Problem 05: 5 Correct (Correct Answer: 5)
+
+2x1 Classmates Problems
+-----------
+2x1 Albert's Problem 01: 5 Correct (Correct Answer: 5)
+2x1 Albert's Problem 02: 4 Correct (Correct Answer: 4)
+
+2x2 Basic Problems
+-----------
+2x2 Basic Problem 01: 2 Correct (Correct Answer: 2)
+2x2 Basic Problem 02: 3 Correct (Correct Answer: 3)
+2x2 Basic Problem 03: 4 Correct (Correct Answer: 4)
+2x2 Basic Problem 04: 6 Correct (Correct Answer: 6)
+2x2 Basic Problem 05: 5 Correct (Correct Answer: 5)
+2x2 Basic Problem 06: 4 Correct (Correct Answer: 4)
+2x2 Basic Problem 07: 2 Correct (Correct Answer: 2)
+2x2 Basic Problem 08: 1 Correct (Correct Answer: 1)
+2x2 Basic Problem 09: 2 Correct (Correct Answer: 2)
+2x2 Basic Problem 10: 5 Correct (Correct Answer: 5)
+2x2 Basic Problem 11: 2 Correct (Correct Answer: 2)
+2x2 Basic Problem 12: 1 Correct (Correct Answer: 1)
+2x2 Basic Problem 13: 1 Correct (Correct Answer: 1)
+2x2 Basic Problem 14: 2 Correct (Correct Answer: 2)
+2x2 Basic Problem 15: 5 Correct (Correct Answer: 5)
+2x2 Basic Problem 16: 5 Correct (Correct Answer: 5)
+2x2 Basic Problem 17: 6 Correct (Correct Answer: 6)
+2x2 Basic Problem 18: 4 Correct (Correct Answer: 4)
+2x2 Basic Problem 19: 4 Correct (Correct Answer: 4)
+2x2 Basic Problem 20: 6 Correct (Correct Answer: 6)
+
+2x2 Challenge Problems
+-----------
+2x2 Challenge Problem 01: 2 Correct (Correct Answer: 2)
+2x2 Challenge Problem 02: 2 Correct (Correct Answer: 2)
+2x2 Challenge Problem 03: 1 Correct (Correct Answer: 1)
+2x2 Challenge Problem 04: 6 Correct (Correct Answer: 6)
+2x2 Challenge Problem 05: 1 Correct (Correct Answer: 1)
+
+2x2 Classmates Problems
+-----------
+2x2 Albert's Problem 01: 6 Correct (Correct Answer: 6)
+2x2 Albert's Problem 02: 2 Correct (Correct Answer: 2)
+2x2 Albert's Problem 03: 2 Correct (Correct Answer: 2)
+
