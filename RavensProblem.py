@@ -1,14 +1,6 @@
-# DO NOT MODIFY THIS FILE.
-#
-# When you submit your project, an alternate version of this file will be used
-# to test your code against the sample Raven's problems in this zip file, as
-# well as other problems from the Raven's Test and former students.
-#
-# Any modifications to this file will not be used when grading your project.
-# If you have any questions, please email the TAs.
-
 # A single Raven's Progressive Matrix problem, represented by a type (2x1, 2x2,
 # or 3x3), a String name, and a HashMap of figures.
+
 class RavensProblem:
     # Initializes a new Raven's Progressive Matrix problem given a name, a
     # type, and a correct answer to the problem. Also initializes a blank
@@ -28,29 +20,14 @@ class RavensProblem:
         self.givenAnswer=""
 
     # Returns the correct answer to the problem.
-    #
-    # In order to receive the correct answer to the problem, your Agent must
-    # supply a guess (givenAnswer). Once it has supplied its guess, it will NOT
-    # be able to change its answer to the problem; the answer passed as
-    # givenAnswer will be stored as the answer to this problem.
-    #
-    # This method is provided to enable your Agent to participate in meta-
-    # reasoning by reflecting on its past incorrect answers. Using this method
-    # is completely optional.
-    #
-    # @param givenAnswer your Agent's answer to the problem
-    # @return the correct answer to the problem
+
+
     def checkAnswer(self, givenAnswer):
         self.setAnswerReceived(givenAnswer)
         return self.correctAnswer
 
-    # Sets your Agent's answer to this problem. This method can only be used
-    # once; the first answer that is received will be stored. This method is
-    # called by either checkAnswer or by the main() method.
-    #
-    # Your agent does not need to use this method.
-    #
-    # @param givenAnswer your Agent's answer to the problem
+
+    # @param givenAnswer Agent's answer to the problem
     def setAnswerReceived(self, givenAnswer):
         if not self.answerReceived:
             self.answerReceived=True
@@ -61,13 +38,8 @@ class RavensProblem:
     def getGivenAnswer(self):
         return self.givenAnswer
 
-    # Returns whether your Agent's answer is the correct answer. Your agent
-    # does not need to use this method; it is used to identify whether each
-    # problem is correct in main().
-    #
-    # Your agent does not need to use this method.
-    #
-    # @return true if your Agent's answer is correct; false otherwise.
+
+    # @return true if Agent's answer is correct; false otherwise.
     def getCorrect(self):
         if self.givenAnswer==self.correctAnswer:
             return "Correct"
@@ -111,10 +83,5 @@ class RavensProblem:
     def getFigures(self):
         return self.figures
 
-    # Returns the name of this problem.
-    #
-    # Your agent does not need to use this method.
-    #
-    # @return the name of the problem
     def getName(self):
         return self.name
