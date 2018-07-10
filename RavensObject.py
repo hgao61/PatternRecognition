@@ -1,11 +1,3 @@
-# DO NOT MODIFY THIS FILE.
-#
-# When you submit your project, an alternate version of this file will be used
-# to test your code against the sample Raven's problems in this zip file, as
-# well as other problems from the Raven's Test and former students.
-#
-# Any modifications to this file will not be used when grading your project.
-# If you have any questions, please email the TAs.
 
 # A single object in a RavensFigure -- typically, a single shape in a frame,
 # such as a triangle or a circle -- comprised of a list of RavensAttributes.
